@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 메인 홈 -->
+  <url>
+    <loc>https://incheon.8222quick.com/index.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 송도 -->
+  <url>
+    <loc>https://incheon.8222quick.com/songdo.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 부평 -->
+  <url>
+    <loc>https://incheon.8222quick.com/bupyeong.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 남동 -->
+  <url>
+    <loc>https://incheon.8222quick.com/namdong.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 계양 -->
+  <url>
+    <loc>https://incheon.8222quick.com/gyeyang.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 연수 -->
+  <url>
+    <loc>https://incheon.8222quick.com/yeonsu.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 주안 -->
+  <url>
+    <loc>https://incheon.8222quick.com/juan.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 구월 -->
+  <url>
+    <loc>https://incheon.8222quick.com/guwol.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 청라 -->
+  <url>
+    <loc>https://incheon.8222quick.com/cheongna.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 검단 -->
+  <url>
+    <loc>https://incheon.8222quick.com/geomdan.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 요금조회 페이지 -->
+  <url>
+    <loc>https://incheon.8222quick.com/money.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
+
+
+
